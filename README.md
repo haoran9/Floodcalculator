@@ -1,6 +1,6 @@
 # Floodcalculator
 
-A flood risk evaluation with building attributes
+A flood risk evaluation with building attributes. This a Data science insight project in May 2020. 
 
 Why elevation is so important with flooding risk? Only elevated buildings stand after hurricane and flooding from Mexico beach in 2018.
 
