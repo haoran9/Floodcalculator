@@ -2,9 +2,12 @@
 
 A flood risk evaluation with building attributes
 
-Why elevation is so important with flooding risk? 
+Why elevation is so important with flooding risk? Only elevated buildings stand after hurricane and flooding from Mexico beach in 2018.
+
 
 ![NYtimes](/Image/back.jpg)
+
+
 
 
 
