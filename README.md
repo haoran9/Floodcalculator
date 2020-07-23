@@ -6,7 +6,7 @@ This a consulting project with [Forreunner](https://www.withforerunner.com/) to 
 
 This repo contains two topics, which is first to predict FFH via regression method(in ./regression_FFH.py) and then extract FFH information from Google stree view images via classification methods(in ./image_classification). 
 
-Regression model result shows in the jupyter notebook but can not be shared here due to NDA with Forreunner
+Regression model result shows in the jupyter notebook but can not be shared here due to NDA with Forreunner.You can reach me at cugharrison@gmail.com for more detials about regression model.
 
 More details are explained in the [slides](https://docs.google.com/presentation/d/1sNwcPHI9Puw8WYK9wWDfNOixRx7JQtxzC4gQh5Uu3qY/edit#slide=id.p)
 
