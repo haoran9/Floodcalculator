@@ -4,7 +4,7 @@ A flood risk evaluation with building attributes
 
 Why elevation is so important with flooding risk? 
 
-![NYtimes](/Images/back.jpg)
+![NYtimes](/Image/back.jpg)
 
 
 
