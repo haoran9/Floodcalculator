@@ -4,6 +4,8 @@ A flood risk evaluation with building attributes. This a Data science insight pr
 
 Why elevation is so important with flooding risk? Only elevated buildings stand after hurricane and flooding from Mexico beach in 2018.
 
+1. First floor height is critical to evaluate the structural vulnerability to flooding damage cost
+2. Flooding risk evaluation can be used for local government, Homeowners, Building construction, Real estate company, and Insurance company.
 
 ![NYtimes](/Image/back.jpg)
 
